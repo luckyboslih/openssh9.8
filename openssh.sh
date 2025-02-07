@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-############################## 蜈蚣出品 #####################
+############################## 路阳出品 #####################
 # Function : openssl openssh update                         #
 # Platform : Centos6.x-8.x & Rocky8.x & openEuler 20.x-22.x #
 # Version  : 2.6                                            #
