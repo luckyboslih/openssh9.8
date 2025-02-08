@@ -4,7 +4,7 @@
 # Function : openssl openssh update                         #
 # Platform : Centos6.x-8.x & Rocky8.x & openEuler 20.x-22.x #
 # Version  : 2.6                                            #
-# Date     : 2024-09-10                                     #
+# Date     : 2025-02-08                                     #
 #############################################################
 #
 # RHEL8系列操作系统恢复使用旧库，解决编译安装Openssl出现的libssl及libcrypto版本不匹配问题。
